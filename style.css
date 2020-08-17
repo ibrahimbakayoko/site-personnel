@@ -124,6 +124,9 @@ header {
 
 .item-photo {
   flex: 30%;
+  position: sticky;
+  top: 90px;
+  height: 269px;
 }
 
 .content {
